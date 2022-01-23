@@ -1,0 +1,15 @@
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/bin/Debug/net6.0/APIClientRiksklimat
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/bin/Debug/net6.0/APIClientRiksklimat.deps.json
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/bin/Debug/net6.0/APIClientRiksklimat.runtimeconfig.json
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/bin/Debug/net6.0/APIClientRiksklimat.dll
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/bin/Debug/net6.0/ref/APIClientRiksklimat.dll
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/bin/Debug/net6.0/APIClientRiksklimat.pdb
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.csproj.AssemblyReference.cache
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.AssemblyInfoInputs.cache
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.AssemblyInfo.cs
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.csproj.CoreCompileInputs.cache
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.dll
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/ref/APIClientRiksklimat.dll
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.pdb
+/Users/fadde/Git-repositories/Riksklimat/APIClientRiksklimat/obj/Debug/net6.0/APIClientRiksklimat.genruntimeconfig.cache
